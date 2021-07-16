@@ -7,7 +7,7 @@ export default (gameRule, gameData) => {
   console.log(gameRule);
 
   const userName = readlineSync.question('\nMay I have your name? ');
-  console.log('Hello, ' + userName + '!\n');
+  console.log(`Hello, ${userName}!\n`);
 
   for (let i = 0; i < turnsCount; i += 1) {
     const [question, result] = gameData();

@@ -5,7 +5,7 @@ const gameRule = 'What number is missing in the progression?';
 const progressionLength = 10;
 
 const getProgressionData = () => {
-  let progression = [];
+  const progression = [];
 
   const start = randomNumber(1, 5);
   const diff = randomNumber(1, 5);
