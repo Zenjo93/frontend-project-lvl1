@@ -11,7 +11,7 @@ const getProgressionData = () => {
   const diff = randomNumber(1, 5);
   const randomBlank = randomNumber(0, progressionLength - 1);
 
-  for (let i = 0, el; progression.length <= progressionLength; el = start + diff * i, i += 1) {
+  for (let i = 0, el = start; progression.length <= progressionLength; el += start + diff * i, i += 1) {
     progression.push(el);
   }
 
