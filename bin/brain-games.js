@@ -1,3 +1,5 @@
 #!/usr/bin/env node
 
-console.log('hello')
+import startGame from '../src/cli.js'
+
+startGame();
