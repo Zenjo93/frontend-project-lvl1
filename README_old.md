@@ -1,9 +1,4 @@
-### Hexlet tests and linter status:
-[![Actions Status](https://github.com/Zenjo93/frontend-project-lvl1/workflows/hexlet-check/badge.svg)](https://github.com/Zenjo93/frontend-project-lvl1/actions)
-
-[![Maintainability](https://api.codeclimate.com/v1/badges/a99a88d28ad37a79dbf6/maintainability)](https://codeclimate.com/github/Zenjo93/frontend-project-lvl1/maintainability)
-
-![Linter-check](https://github.com/Zenjo93/frontend-project-lvl1/actions/workflows/linter-check.yml/badge.svg)
+[![Maintainability](https://api.codeclimate.com/v1/badges/e1bcb0bfc2d066091d65/maintainability)](https://codeclimate.com/github/Zenjo93/frontend-project-lvl1/maintainability) [![Build Status](https://travis-ci.org/Zenjo93/frontend-project-lvl1.svg?branch=master)](https://travis-ci.org/Zenjo93/frontend-project-lvl1)
 
 # Hexlet Project #1: "Brain Games"
 My first JS project from Hexlet.io. Learned javascript basics on practice by developing 5 brainteaser games for Command Line interface (cli).
